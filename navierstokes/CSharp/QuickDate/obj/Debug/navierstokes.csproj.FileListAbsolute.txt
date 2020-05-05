@@ -1,0 +1,7 @@
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\obj\Debug\navierstokes.csprojAssemblyReference.cache
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\obj\Debug\navierstokes.csproj.CoreCompileInputs.cache
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\bin\Debug\QuickDate.exe.config
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\bin\Debug\QuickDate.exe
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\bin\Debug\QuickDate.pdb
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\obj\Debug\QuickDate.exe
+D:\programming\Python\Github\navierstokes\CSharp\QuickDate\obj\Debug\QuickDate.pdb
